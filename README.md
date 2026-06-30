@@ -1,6 +1,6 @@
 # Beyond Reconstruction Fairness: Evaluating the Downstream Effects of Fair PCA Preprocessing
 
-This repository contains the code used for the bachelor thesis *Beyond Reconstruction Fairness: Evaluating the Downstream Effects of Fair PCA Preprocessing*. The project evaluates Standard PCA, Fair PCA, and LAFTR as preprocessing methods for the COMPAS and Adult datasets. The experiments assess both group-specific reconstruction performance and downstream binary-classification outcomes.
+This repository contains the code used for my bachelor's thesis *Beyond Reconstruction Fairness: Evaluating the Downstream Effects of Fair PCA Preprocessing*. The project evaluates Standard PCA, Fair PCA, and LAFTR as preprocessing methods for the COMPAS and Adult datasets. The experiments assess both group-specific reconstruction performance and downstream binary-classification outcomes.
 
 Please refer to the uploaded `.csv` files in the `experiments/results` folder for the experimental results. Please refer to the uploaded `.png` files in the `figures/reconstruction` folder for the reconstruction figures included in the research paper. To reproduce the results reported in this research, please refer to the `notebooks` module.
 
